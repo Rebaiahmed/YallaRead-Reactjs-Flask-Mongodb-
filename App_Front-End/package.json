@@ -1,0 +1,31 @@
+{
+  "name": "djangoproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "firebase": "^4.7.0",
+    "lodash": "^4.17.4",
+    "mdl-date-textfield": "^1.0.9",
+    "react": "^16.0.0",
+    "react-bootstrap": "^0.31.5",
+    "react-date-picker": "^6.5.0",
+    "react-dom": "^16.0.0",
+    "react-google-maps": "^9.4.1",
+    "react-mdl": "^1.11.0",
+    "react-mdl-datepicker": "^1.0.0",
+    "react-mdl-select": "^1.1.5",
+    "react-router": "^3.2.0",
+    "react-scripts": "1.0.14",
+    "react-web-notification": "^0.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "style-loader": "^0.19.0"
+  }
+}
