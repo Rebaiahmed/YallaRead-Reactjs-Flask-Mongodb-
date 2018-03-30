@@ -30,8 +30,8 @@ mongo = PyMongo(app)
 
 app.config['OAUTH_CREDENTIALS'] = {
     'facebook': {
-       'consumer_key': '160002754755230',
-    'consumer_secret': '5ca2b5e8c239e85d6ef55edf981592a4'
+       'consumer_key': 'your_consumer_key',
+    'consumer_secret': 'your_consumer_secret'
     },
     
 }
